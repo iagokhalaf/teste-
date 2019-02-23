@@ -1,45 +1,6 @@
 linha do 1 meu arquivo 
 linha dois criada na branch 1 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-corno
+linha 3 criada na branch2
 
 
 
