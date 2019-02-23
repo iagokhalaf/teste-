@@ -1,3 +1,5 @@
 linha do 1 meu arquivo 
 linha dois criada na branch 1 
 linha 3 cirada na branch1  
+linha 3 criada na branch2
+
